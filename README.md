@@ -1,5 +1,5 @@
 # irOneMotorControl
-Control one DC motor speed and direction with IR receiver.
+<h1>Control one DC motor speed and direction with IR receiver.</h1>
 
 <p1>The code button.ino detect the buttons of your remote control</p1>
 
