@@ -1,0 +1,8 @@
+Those buttons you should find on your own remote control, becuse each remote has own codes
+
+
+E0E006F9   arrow up
+E0E08679   arrow down
+E0E0A659   arrow back
+E0E046B9   arrow front
+E0E040BF   OFF
