@@ -1,5 +1,5 @@
 <h1>irOneMotorControl</h1>
-<h2>Control one DC motor speed and direction with IR receiver.</h2>
+<h2>Control one DC motor speed and direction with IR receiver with Arduino.</h2>
 
 <p1>The code IRDecode signal.ino detect the buttons of your remote control</p1>
 
