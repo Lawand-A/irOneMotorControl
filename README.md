@@ -5,5 +5,7 @@
 
 <p2>The code motorControl.ino is to control the speed and direction of your DC motor with IR receiver. </p2>
   
+![](circuit for motorControl.png)
+
   
 
